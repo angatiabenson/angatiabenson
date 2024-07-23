@@ -13,7 +13,7 @@ I'm a passionate Software Developer with a keen interest in Web Development, And
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=bensonetia&layout=compact&theme=dark" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=angatiabenson&theme=dark" /></td>
+    <td valign="top"><img src="https://streak-stats.demolab.com?user=angatiabenson&theme=dark&hide_border=true&mode=weekly" /></td>
   </tr>
 </table>
 
