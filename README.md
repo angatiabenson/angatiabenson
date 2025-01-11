@@ -19,6 +19,5 @@ I'm a dedicated Software Developer who’s really excited about Web Development,
 ## 📫 How to Reach Me
 - **Email**: angatiabenson1@gmail.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/angatia-benson/)
-- **Twitter**: [Twitter](https://twitter.com/bensonetia)
 
 Feel free to connect with me for collaboration or any interesting discussion. Let's innovate together.
